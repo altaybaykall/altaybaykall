@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [KacSilindir.com](https://kacsilindir.com)
 
 - 🌱 I’m currently learning **Laravel**
-
+ 
 - 📫 How to reach me **altaybaykall@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
