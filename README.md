@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altaybaykall&label=Profile%20views&color=0e75b6&style=flat" alt="altaybaykall" /> </p>
 
-- 🔭 I’m currently working on [KacSilindir.com](https://kacsilindir.com)
-
-- 🌱 I’m currently learning **Laravel**
  
 - 📫 How to reach me **altaybaykall@gmail.com**
 
